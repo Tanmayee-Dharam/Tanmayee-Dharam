@@ -4,14 +4,10 @@ Welcome to my space on the web! I'm a **Business Analyst** with around 5 years o
 
 🔍 About Me:
 I thrive on solving real-world problems by connecting the dots between data and business goals. Whether it’s optimizing reporting workflows, building predictive models, or visualizing complex datasets, I bring curiosity, precision, and strong business acumen to the table.
-
-⚙️ Tools I Love: Python, SQL, Tableau, Power BI
-
-🧠 What I Do Best: Ask the right questions, spot patterns, automate the boring stuff
-
-🌍 Where I’ve Worked: NGOs in Texas, startups & enterprises in India
-
-💡 Vibe: Curious. Analytical. Impact-driven.
+- ⚙️ Tools I Love: Python, SQL, Tableau, Power BI
+- 🧠 What I Do Best: Ask the right questions, spot patterns, automate the boring stuff
+- 🌍 Where I’ve Worked: NGOs in Texas, startups & enterprises in India
+- 💡 Vibe: Curious. Analytical. Impact-driven.
 
 📈 Let's Connect:
 I’m always open to connecting with fellow data professionals, collaborators, or organizations looking for a data-driven thinker.
