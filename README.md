@@ -4,11 +4,11 @@ Welcome to my space on the web! I'm a **Business Analyst** with around 5 years o
 🔍 About Me:
 
 I thrive on solving real-world problems by connecting the dots between data and business goals. Whether it’s optimizing reporting workflows, building predictive models, or visualizing complex datasets, I bring curiosity, precision, and strong business acumen to the table.
-- 🧠 **Analytical Thinker** – Strong grasp of **statistical modeling**, **predictive analytics**, and **ML algorithms** (Random Forest, Clustering, Time-Series).
-- 💡 **Problem Solver** – Skilled at **Root Cause Analysis**, KPI development, and improving decision-making through data-backed insights.
-- 🧰 **Tech Stack Pro** – Python (Pandas, NumPy, Scikit-learn), SQL (MySQL, PostgreSQL, SQL Server), Tableau, Power BI, Excel, and R.
-- 🔄 **Process Improver** – Experience automating ETL processes, cleaning and aggregating datasets, and reducing manual workloads by up to 40%.
-- 🌎 **Global Experience** – From working with NGOs in Texas to startups and enterprises in India, I bring a diverse and adaptable perspective.
+- **Analytical Thinker** – Strong grasp of **statistical modeling**, **predictive analytics**, and **ML algorithms** (Random Forest, Clustering, Time-Series).
+- **Problem Solver** – Skilled at **Root Cause Analysis**, KPI development, and improving decision-making through data-backed insights.
+- **Tech Stack Pro** – Python (Pandas, NumPy, Scikit-learn), SQL (MySQL, PostgreSQL, SQL Server), Tableau, Power BI, Excel, and R.
+- **Process Improver** – Experience automating ETL processes, cleaning and aggregating datasets, and reducing manual workloads by up to 40%.
+- **Global Experience** – From working with NGOs in Texas to startups and enterprises in India, I bring a diverse and adaptable perspective.
 
 📈 Let's Connect
 I’m always open to connecting with fellow data professionals, collaborators, or organizations looking for a data-driven thinker.
