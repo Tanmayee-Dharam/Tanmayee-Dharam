@@ -1,5 +1,5 @@
 👋 Hi, I'm Tanmayee Dharam — Business Analyst | Python Enthusiast | SQL Expert
-Welcome to my space on the web! I'm a **Business Analyst** with around 5 years of experience driving impact through data storytelling, strategic insights, and hands-on analytics. With a Master's in Business Analytics from **UT Dallas** and a solid tech foundation in **Python**, **SQL**, and **Data Visualization**, I bridge the gap between raw data and actionable decisions.
+Welcome to my space on the web! I'm a **Business Analyst** with 4+ years of experience driving impact through data storytelling, strategic insights, and hands-on analytics. With a Master's in Business Analytics from **UT Dallas** and a solid tech foundation in **Python**, **SQL**, and **Data Visualization**, I bridge the gap between raw data and actionable decisions.
 
 
 🔍 About Me:
